@@ -17,7 +17,7 @@
         <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40"/></a>
 </p>
 
-<h3 align="left">Lenguajes de programación y herramientas que he usado:</h3>
+<h3 align="left">Competencias:</h3>
 <p align="left">
     <a href="https://cplusplus.com/reference/istream/istream/get/" target="_blank">
         <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" width="40" height="40"/></a>

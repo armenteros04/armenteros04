@@ -50,7 +50,7 @@
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details >
   <summary><b>:gear: &nbsp;Estadísticas de Github</b></summary>
   <br/>
     <p align="center">

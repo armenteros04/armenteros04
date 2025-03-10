@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Antonio Armenteros 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática en la Universidad de Jaén</h3>
+<h3>Estudiante de Ingeniería Informática en la Universidad de Jaén</h3>
 
 - 👨‍💻 Mis proyectos están disponibles en **[https://github.com/armenteros04?tab=repositories](https://github.com/armenteros04?tab=repositories)**
 

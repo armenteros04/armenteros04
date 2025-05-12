@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/antonioarmenteros//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/antonioarmenteros"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/antonio_ai04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="mailto:antonio.arm.iran@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
